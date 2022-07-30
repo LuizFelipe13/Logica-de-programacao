@@ -1,0 +1,16 @@
+C:\Users\luiz_\source\repos\ProgramasC\ProgramasC\bin\Debug\net5.0\ProgramasC.exe
+C:\Users\luiz_\source\repos\ProgramasC\ProgramasC\bin\Debug\net5.0\ProgramasC.deps.json
+C:\Users\luiz_\source\repos\ProgramasC\ProgramasC\bin\Debug\net5.0\ProgramasC.runtimeconfig.json
+C:\Users\luiz_\source\repos\ProgramasC\ProgramasC\bin\Debug\net5.0\ProgramasC.runtimeconfig.dev.json
+C:\Users\luiz_\source\repos\ProgramasC\ProgramasC\bin\Debug\net5.0\ProgramasC.dll
+C:\Users\luiz_\source\repos\ProgramasC\ProgramasC\bin\Debug\net5.0\ProgramasC.pdb
+C:\Users\luiz_\source\repos\ProgramasC\ProgramasC\obj\Debug\net5.0\ProgramasC.csproj.AssemblyReference.cache
+C:\Users\luiz_\source\repos\ProgramasC\ProgramasC\obj\Debug\net5.0\ProgramasC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz_\source\repos\ProgramasC\ProgramasC\obj\Debug\net5.0\ProgramasC.AssemblyInfoInputs.cache
+C:\Users\luiz_\source\repos\ProgramasC\ProgramasC\obj\Debug\net5.0\ProgramasC.AssemblyInfo.cs
+C:\Users\luiz_\source\repos\ProgramasC\ProgramasC\obj\Debug\net5.0\ProgramasC.csproj.CoreCompileInputs.cache
+C:\Users\luiz_\source\repos\ProgramasC\ProgramasC\obj\Debug\net5.0\ProgramasC.dll
+C:\Users\luiz_\source\repos\ProgramasC\ProgramasC\obj\Debug\net5.0\refint\ProgramasC.dll
+C:\Users\luiz_\source\repos\ProgramasC\ProgramasC\obj\Debug\net5.0\ProgramasC.pdb
+C:\Users\luiz_\source\repos\ProgramasC\ProgramasC\obj\Debug\net5.0\ProgramasC.genruntimeconfig.cache
+C:\Users\luiz_\source\repos\ProgramasC\ProgramasC\obj\Debug\net5.0\ref\ProgramasC.dll
